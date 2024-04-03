@@ -6,7 +6,7 @@ const CakeCard = (props) => {
                 src={"./image/" + props.cake.image}
                 className="card-img-top"
                 alt="..."
-                style={{ width: "18rem", height: "18rem" }}
+                style={{ width: "18rem", height: "18rem " }}
             />
             <div className="card-body">
                 <h5 className="card-title">{props.cake.name}</h5>
