@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/schoolDemo/static/css/main.db62923b.css",
+    "main.js": "/schoolDemo/static/js/main.8c30c796.js",
+    "static/js/453.c4bd9193.chunk.js": "/schoolDemo/static/js/453.c4bd9193.chunk.js",
+    "index.html": "/schoolDemo/index.html",
+    "main.db62923b.css.map": "/schoolDemo/static/css/main.db62923b.css.map",
+    "main.8c30c796.js.map": "/schoolDemo/static/js/main.8c30c796.js.map",
+    "453.c4bd9193.chunk.js.map": "/schoolDemo/static/js/453.c4bd9193.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db62923b.css",
+    "static/js/main.8c30c796.js"
+  ]
+}
